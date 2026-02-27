@@ -1,8 +1,6 @@
 # 00_HST_Basic_Concepts — Holographic Sphere Topology 基本概念
 
-[Holographic Sphere Topology (HST)](https://www.tanaakk.com/2026/02/26/tech/) の基本概念を整理する。臓器メタファーと境界面（ホログラフィー）の定義により、システム開発を **Object と Morphism の数学的問題** に置き換える。
-
-**参照**: [Holographic Sphere Topology – TANAAKK](https://www.tanaakk.com/2026/02/26/tech/)
+**Holographic Sphere Topology (HST)** の基本概念を整理する。臓器メタファーと境界面（ホログラフィー）の定義により、システム開発を **Object と Morphism の数学的問題** に置き換える。
 
 ---
 
