@@ -4,6 +4,8 @@
 
 **Holographic Sphere Topology (HST)** is a new guideline and neologism proposed by TANAAKK for the AI era.
 
+**Definition of this repository**: By following the rules of this repository, it outputs answers to queries about **how to organize the external and internal boundaries of business as a complex system**.
+
 ---
 
 ## Conclusion, Theme, and Proposition (Claim)
@@ -231,6 +233,7 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 
 ## Detailed Expansion of the Proposition (Conclusion Checklist)
 
+0. **Definition of this repository**: By following the rules of this repository, it outputs answers to queries about how to organize the external and internal boundaries of business as a complex system
 1. **Organ metaphor**: Business is composed of 10+ organs; organs are separated by boundaries
 2. **Slaughtered-cow fallacy**: Complete preprocessing before putting in mouth, not throwing in whole. Apps become combinations of lightweight processing
 3. **DB commoditization**: The long-sanctified database becomes serverless; almost free, no longer profitable
@@ -259,3 +262,4 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 | 2026-02-27 | English translation created from canonical Japanese (00_HST_Basic_Concepts.md) |
 | 2026-02-27 | Conclusion, theme, proposition placed at top; restructured as grounds and metaphors (thesis-first) |
 | 2026-02-27 | 3.2.1 Scope of impact (existing infrastructure, personnel, careers) added |
+| 2026-02-27 | Definition of this repository (outputs answers to queries about organizing external/internal boundaries of business as complex system) added |
