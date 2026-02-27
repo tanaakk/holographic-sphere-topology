@@ -1,5 +1,7 @@
 # 00_HST_Basic_Concepts — Holographic Sphere Topology 基本概念
 
+**正本（Canonical）**: 日本語版。英語版は `00_HST_Basic_Concepts_EN.md` を参照。
+
 **Holographic Sphere Topology (HST)** の基本概念を整理する。臓器メタファーと境界面（ホログラフィー）の定義により、システム開発を **Object と Morphism の数学的問題** に置き換える。
 
 ---

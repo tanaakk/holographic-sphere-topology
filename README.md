@@ -6,7 +6,8 @@ Holographic Sphere Topology の基本概念と原則。臓器メタファーと�
 
 | ファイル | 内容 |
 |----------|------|
-| [00_HST_Basic_Concepts.md](00_HST_Basic_Concepts.md) | HST 基本概念（臓器メタファー、毒の原則、屠畜牛の誤謬、事業のブラックボックス球化、推論による予測可能性） |
+| [00_HST_Basic_Concepts.md](00_HST_Basic_Concepts.md) | **正本（日本語）** — HST 基本概念 |
+| [00_HST_Basic_Concepts_EN.md](00_HST_Basic_Concepts_EN.md) | **English** — Translation of the canonical Japanese version |
 
 ## 8 リポジトリ構造
 
