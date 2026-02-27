@@ -145,6 +145,18 @@ Under the above definitions, **system development is largely replaced by a mathe
 
 The selection of **appropriate 3rd-party black boxes** as the internal structure of the system, so that enterprise Output is legitimate, is itself evidence that **engineers have been elevated to authority over the landscape**. Choices such as Shopify, serverless, Drizzle, and SolidJS are the design of the landscape itself.
 
+**All specialists across domains that were previously separated in organizations—finance, sales, marketing, design, development, quality management, audit—will be classified by whether they hold root authority to observe the higher-level In/Out through this HST landscape, or not.**
+
+### 3.2.1 Scope of Impact: Existing Infrastructure, Personnel, and Careers
+
+HST theory clarifies **the scope of impact—what effects will occur on existing infrastructure, personnel, and careers**.
+
+| Impact Area | Content |
+|-------------|---------|
+| **Existing infrastructure** | Monolithic giant-type systems, ERPs lacking boundaries, in-house DBs and servers become legacy. Migration toward organ separation, boundary design, and external black-box selection is required |
+| **Personnel** | Reclassification by presence or absence of root authority. Value diverges between those capable of boundary design and Object/Morphism design, and those specialized in traditional internal implementation |
+| **Careers** | Code-writing work becomes fossilized. Understanding the landscape, organizing ontology, and topology explainability become the central axis of careers. Advancement to positions with 3rd-party black-box selection authority becomes a new career path |
+
 ### 3.3 The Next Era: Black-Box Spherification of Business
 
 **Every application should become a combination of lightweight processing.** The database, long a sanctuary, becomes serverless and **almost free—no longer a source of profit**.
@@ -233,8 +245,10 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 12. **Zero Knowledge Proof–type certification**: Whether sphere interior aligns with purpose is defined by boundary In and Out. Certifiable without opening interior
 13. **In-first verification**: When expected Out does not appear, Input data is wrong in most cases. Every system outputs by some rule
 14. **Engineer's role**: Understand landscape; organize hierarchical relationships via ontology; make topology explainable. Selection of appropriate 3rd-party black boxes elevates engineers to authority over the landscape
-15. **Engineering shift**: Not stacking bricks but creating substantial black boxes that integrate with environment and return correct In/Out
-16. **Role of code**: In new development, boundary description is primary. "Writing code" is a fossil except for legacy maintenance
+15. **Specialist reclassification**: Specialists in finance, sales, marketing, design, development, quality management, and audit are classified by presence or absence of root authority to observe higher-level In/Out through the HST landscape
+16. **Scope of impact**: Impact on existing infrastructure (legacy, migration), personnel (reclassification by root authority), and careers (landscape understanding and black-box selection authority as central axis) is clarified
+17. **Engineering shift**: Not stacking bricks but creating substantial black boxes that integrate with environment and return correct In/Out
+18. **Role of code**: In new development, boundary description is primary. "Writing code" is a fossil except for legacy maintenance
 
 ---
 
@@ -244,3 +258,4 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 |------|---------|
 | 2026-02-27 | English translation created from canonical Japanese (00_HST_Basic_Concepts.md) |
 | 2026-02-27 | Conclusion, theme, proposition placed at top; restructured as grounds and metaphors (thesis-first) |
+| 2026-02-27 | 3.2.1 Scope of impact (existing infrastructure, personnel, careers) added |
