@@ -16,6 +16,9 @@
 | [00_HST_Basic_Concepts_EN.md](00_HST_Basic_Concepts_EN.md) | **English** — Translation of the canonical Japanese version |
 | [01_HST_IO_Specification.md](01_HST_IO_Specification.md) | I/O Specification の定義と本リポジトリの想定 I/O |
 | [02_HST_SCA_Definition.md](02_HST_SCA_Definition.md) | HST に基づく SCA 構成の完全定義（Layered/Orthogonal/MECE、TypeScript Schema、Topology View） |
+| [03_HST_Implementation.md](03_HST_Implementation.md) | **HST 実装指針（メタファー排除版）** — Object・Morphism・境界面・In/Out の形式用語のみで記述 |
+| [enterprise-portfolio/](enterprise-portfolio/) | 企業のポートフォリオ管理（事業ポートフォリオ、投資 DD） |
+| [personnel/](personnel/) | 人材の個人の性質の予測（面接、定年） |
 
 ## 8 リポジトリ構造
 

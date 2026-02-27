@@ -80,6 +80,8 @@ As software grows in mass and complexity, the `https://` boundary functions as a
 
 **All things and life are established at a boundary that is highly compressed and easy to decode.** 3D internal structure is compressed and encoded onto the boundary (2D); it can be decoded via queries from the boundary. The essence of things, life, and systems is condensed on the boundary surface.
 
+**HST becomes more effective as complexity increases.** For example, Mars's atmospheric composition can be inferred with nearly 100% accuracy through observation of the boundary from outside. This is analogous to the law by which a sushi chef who has prepared various types of fish can predict the quality of the contents to some extent just by looking at the fish's scales. Likewise, a chef who has cooked many aged meats can discern the grade of today's aged meat before cooking. (However, the price the customer pays does not change because of that.)
+
 To know what the Earth is like, no one digs into the ground and observes cores first—**looking at the surface is sufficient**. Observing the boundary (surface) allows understanding without digging into the interior. The same principle applies.
 
 When getting to know someone romantically, no one asks for health check data first. One relies on **face, expression, and conversation**—boundary interaction. Understanding the other through In/Out on the boundary (expression, words) without opening internal data (blood tests, X-rays).
@@ -115,6 +117,10 @@ The human "interior" has no persistent storage. Memory is used only for processi
 **Whether to make the database part of the body is the same as evolutionary history.** Humans reduced nails, hair, and muscle mass—abandoning strength as storage—to maintain survival advantage by becoming a processor-based system. Similarly, the decision to use Shopify instead of building an EC site in-house, or to use serverless instead of owning servers, OS, and database, reflects the judgment that **using external black boxes causes entropy to converge more effectively than using internal black boxes**. Evolution toward processor specialization and the decision to delegate to external black boxes are isomorphic.
 
 **For humans too, the history of past interactions can be referenced almost entirely through surface information—responses to queries.** Access to past interaction history is possible through boundary queries and responses alone, without opening the interior. This is isomorphic to Zero Knowledge Proof–type certification and In/Out verification.
+
+**If compliant with HST, 10 minutes is sufficient for today's training.** By observing fragmentary interactions between the chosen machine and the body, one can verify whether whole-body performance has improved without completing all full-body menus—run, shoulder, chest, grip strength, pull-ups, leg press. Verification is possible via In/Out at the boundary (input/output at the machine-body contact point) alone, without opening the interior (individual state of each muscle group).
+
+**The same applies to learning.** Observe whether the performance of answers returned to simple queries has improved. For example, long lectures at a Tokyo University entrance exam prep school are unnecessary; if passing the exam is the priority, a few query round-trips suffice to confirm whether proficiency has increased. Prolonged investigation of the system interior ends in futility.
 
 ---
 
@@ -201,6 +207,13 @@ With correct design of internal Objects and Morphisms, the entire business is ex
 
 Whether capital invested in internal systems is output as operating cash flow, and whether that output is competitive—**verifiable through In/Out alone without observing internal structure.**
 
+**Enterprise portfolio management** and **personnel prediction** are defined in separate folders.
+
+| Folder | Content |
+|--------|---------|
+| [enterprise-portfolio/](enterprise-portfolio/) | Business portfolio management, investment due diligence. Site/field conversations trap one in dissipative structure. Surface interfaces (CEO, managers) suffice. Define expected IRR upfront; query samples for capital In/Out vs hurdle rate; infer post-acquisition performance with high accuracy by observing event horizon only |
+| [personnel/](personnel/) | Employee interviews, personnel prediction. A few queries suffice ZKP-style to determine beneficial internal processes. 6-month trial clarifies ROIC hurdle. Age, career, gender, religion, family composition, education, medical history, previous job—judge without asking; all information inscribed on boundary surface. If expected In/Out achieved, mandatory retirement unnecessary |
+
 ### 3.4 Acceptance of Black Boxes and Predictability Through Inference
 
 What becomes important in the next era is possessing the wisdom to **not study the internal system**, **accept black boxes**, and **achieve predictability of results through inference**.
@@ -247,23 +260,25 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 1. **Organ metaphor**: Business is composed of 10+ organs; organs are separated by boundaries
 2. **Slaughtered-cow fallacy**: Complete preprocessing before putting in mouth, not throwing in whole. Apps become combinations of lightweight processing
 3. **DB commoditization**: The long-sanctified database becomes serverless; almost free, no longer profitable
-4. **Holographic principle**: Only information on the boundary is exchanged. Interior unobservable. All things and life are established at a highly compressed, easily decodable boundary
+4. **Holographic principle**: Only information on the boundary is exchanged. Interior unobservable. All things and life are established at a highly compressed, easily decodable boundary. HST more effective as complexity increases (e.g., Mars atmospheric composition; sushi chef and fish scales; chef and aged meat grade—customer price unchanged)
 5. **Definition of human**: Computing device with externalized storage. Memory used only for external interaction; bones, muscles, brain replaced in weeks to months. Past interaction history can be referenced almost entirely via surface information of query responses
-6. **Evolution and external black boxes**: Isomorphic to evolution reducing nails, hair, muscle for processor specialization. Using Shopify, serverless instead of owning DB—external black boxes converge entropy more
-7. **Poison principle**: Reversing responsibilities of internal and external systems is impossible; same result as eating poison
-8. **Mathematization**: Development is reduced to a design problem of Objects and Morphisms
-9. **Business black-box sphere**: Design boundaries, Objects, Morphisms; optimize processing order; wrap business into a simple sphere of capital Input → net profit Output
-10. **Enterprise black box**: Enterprise is a broader box of combined systems. Legitimacy of internal complexity verifiable via ROIC, operating CF, Competitive In/Out
-11. **Acceptance of black boxes**: Do not study internal system; accept black boxes; achieve predictability through inference
-12. **Zero Knowledge Proof–type certification**: Whether sphere interior aligns with purpose is defined by boundary In and Out. Certifiable without opening interior
-13. **In-first verification**: When expected Out does not appear, Input data is wrong in most cases. Every system outputs by some rule
-14. **Engineer's role**: Understand landscape; organize hierarchical relationships via ontology; make topology explainable. Selection of appropriate 3rd-party black boxes elevates engineers to authority over the landscape
-15. **Specialist reclassification**: Specialists in finance, sales, marketing, design, development, quality management, and audit are classified by presence or absence of root authority to observe higher-level In/Out through the HST landscape
-16. **Scope of impact**: Impact on existing infrastructure (legacy, migration), personnel (reclassification by root authority), and careers (landscape understanding and black-box selection authority as central axis) is clarified
-17. **SCA and topology**: SCA as example of HST-style classification. MECE surveys system interior; topology required for landscape definition. Three principles Layered/Orthogonal/MECE; technical elements coordinated by Layer/Aspect/Phase axes
-18. **Non-separated boundaries and AI limits**: Without a boundary-separated tech stack, LLM output is blocked by dependencies (CSS, Docker, etc.). Performance improvement requires shifting from centralized version control to local/wide-area systems where edge terminals grow autonomously. Cell→organ→body hierarchy: each layer grows autonomously without bottlenecking the upper layer
-19. **Engineering shift**: Not stacking bricks but creating substantial black boxes that integrate with environment and return correct In/Out
-20. **Role of code**: In new development, boundary description is primary. "Writing code" is a fossil except for legacy maintenance
+6. **HST-compliant training and learning**: 10 minutes sufficient. Fragmentary observation of machine-body interaction verifies whole-body performance. Learning likewise: verify proficiency via simple query round-trips. Long lectures and prolonged investigation of system interior end in futility
+7. **Evolution and external black boxes**: Isomorphic to evolution reducing nails, hair, muscle for processor specialization. Using Shopify, serverless instead of owning DB—external black boxes converge entropy more
+8. **Poison principle**: Reversing responsibilities of internal and external systems is impossible; same result as eating poison
+9. **Mathematization**: Development is reduced to a design problem of Objects and Morphisms
+10. **Business black-box sphere**: Design boundaries, Objects, Morphisms; optimize processing order; wrap business into a simple sphere of capital Input → net profit Output
+11. **Enterprise black box**: Enterprise is a broader box of combined systems. Legitimacy of internal complexity verifiable via ROIC, operating CF, Competitive In/Out
+12. **Business portfolio management, investment DD, and interviews**: Site/field conversations trap one in dissipative structure. Surface interfaces (CEO, managers) suffice. Investment DD: define expected IRR upfront; query samples for capital In/Out vs hurdle rate; infer post-acquisition performance with high accuracy by observing event horizon only. Interviews: a few queries suffice ZKP-style to determine beneficial internal processes; 6-month trial clarifies ROIC hurdle. Age, career, gender, religion, family composition, education, medical history, previous job—judge without asking; all information inscribed on boundary surface. If expected In/Out achieved, mandatory retirement unnecessary
+13. **Acceptance of black boxes**: Do not study internal system; accept black boxes; achieve predictability through inference
+14. **Zero Knowledge Proof–type certification**: Whether sphere interior aligns with purpose is defined by boundary In and Out. Certifiable without opening interior
+15. **In-first verification**: When expected Out does not appear, Input data is wrong in most cases. Every system outputs by some rule
+16. **Engineer's role**: Understand landscape; organize hierarchical relationships via ontology; make topology explainable. Selection of appropriate 3rd-party black boxes elevates engineers to authority over the landscape
+17. **Specialist reclassification**: Specialists in finance, sales, marketing, design, development, quality management, and audit are classified by presence or absence of root authority to observe higher-level In/Out through the HST landscape
+18. **Scope of impact**: Impact on existing infrastructure (legacy, migration), personnel (reclassification by root authority), and careers (landscape understanding and black-box selection authority as central axis) is clarified
+19. **SCA and topology**: SCA as example of HST-style classification. MECE surveys system interior; topology required for landscape definition. Three principles Layered/Orthogonal/MECE; technical elements coordinated by Layer/Aspect/Phase axes
+20. **Non-separated boundaries and AI limits**: Without a boundary-separated tech stack, LLM output is blocked by dependencies (CSS, Docker, etc.). Performance improvement requires shifting from centralized version control to local/wide-area systems where edge terminals grow autonomously. Cell→organ→body hierarchy: each layer grows autonomously without bottlenecking the upper layer
+21. **Engineering shift**: Not stacking bricks but creating substantial black boxes that integrate with environment and return correct In/Out
+22. **Role of code**: In new development, boundary description is primary. "Writing code" is a fossil except for legacy maintenance
 
 ---
 
@@ -277,3 +292,13 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 | 2026-02-27 | Definition of this repository (outputs answers to queries about organizing external/internal boundaries of business as complex system) added |
 | 2026-02-27 | 3.2.2 Non-separated boundaries and AI limits; autonomous growth of local/wide-area systems (CSS/Docker dependencies, cell→organ→body metaphor) added |
 | 2026-02-27 | SCA as HST-style classification example. MECE vs topology. 02_HST_SCA_Definition.md created |
+| 2026-02-27 | 2.4 HST-compliant training (10 min sufficient, fragmentary interaction observation verifies whole-body performance) added |
+| 2026-02-27 | 2.4 HST-compliant learning (simple query round-trips verify proficiency; long lectures and interior investigation futile) added |
+| 2026-02-27 | 3.3 Business portfolio management (site/field traps in dissipative structure; surface interfaces suffice) added |
+| 2026-02-27 | 2.2 HST more effective as complexity increases (Mars atmospheric composition inferable with nearly 100% accuracy from boundary observation) added |
+| 2026-02-27 | 3.3 Investment due diligence (expected IRR upfront, query samples, event horizon observation for post-acquisition performance inference) added |
+| 2026-02-27 | 2.2 Sushi chef–fish scales metaphor (law of predicting interior quality from boundary observation) added |
+| 2026-02-27 | 2.2 Chef–aged meat metaphor (discern grade before cooking; customer price unchanged) added |
+| 2026-02-27 | 3.3 Employee interviews (few queries for ZKP-style determination; 6-month trial clarifies ROIC hurdle) added |
+| 2026-02-27 | 3.3 Interview: judge without asking age, career, gender, religion, family composition, education, medical history, previous job—all information inscribed on boundary surface |
+| 2026-02-27 | 3.3 If expected In/Out achieved, mandatory retirement unnecessary |
