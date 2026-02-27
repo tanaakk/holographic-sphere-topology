@@ -2,11 +2,21 @@
 
 **Translation from the canonical Japanese version** (`00_HST_Basic_Concepts.md`). The Japanese version is the authoritative source.
 
-This document organizes the basic concepts of **Holographic Sphere Topology (HST)**. Through the organ metaphor and the definition of boundaries (holography), system development is reframed as a **mathematical problem of Objects and Morphisms**.
+**Holographic Sphere Topology (HST)** is a new guideline and neologism proposed by TANAAKK for the AI era.
 
 ---
 
-## 1. Organ Metaphor: Separation of Frontend and Backend
+## Conclusion, Theme, and Proposition (Claim)
+
+**All things, life, and systems can be defined, verified, and predicted solely by their boundaries (In/Out).** Without opening the interior, certification of purpose alignment is possible by inferring from types, contracts, and protocols on the boundary. Business can be wrapped into a black-box sphere of capital Input → net profit Output. System development is reduced to a **design problem of Objects and Morphisms**. The act of writing code is a fossil except for legacy maintenance.
+
+This proposition will be proven in the future through the grounds and metaphors presented below.
+
+---
+
+## Grounds and Metaphors
+
+### 1. Organ Metaphor: Separation of Frontend and Backend
 
 ### 1.1 The Liver = Database Principle
 
@@ -43,7 +53,7 @@ A common mistake in modern systems is **bringing a freshly slaughtered cow and t
 
 ---
 
-## 2. Holographic Principle: Definition of Boundaries
+### 2. Holographic Principle: Definition of Boundaries
 
 ### 2.1 https:// as Event Horizon
 
@@ -106,7 +116,7 @@ The human "interior" has no persistent storage. Memory is used only for processi
 
 ---
 
-## 3. Mathematization of System Development
+### 3. Mathematization of System Development
 
 ### 3.1 Reduction to Objects and Morphisms
 
@@ -194,7 +204,7 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 
 ---
 
-## 4. Correspondence with GAAS Standard Stack
+### 4. Correspondence with GAAS Standard Stack
 
 | Domain | HST Position |
 |--------|--------------|
@@ -207,7 +217,7 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 
 ---
 
-## 5. Conclusions
+## Detailed Expansion of the Proposition (Conclusion Checklist)
 
 1. **Organ metaphor**: Business is composed of 10+ organs; organs are separated by boundaries
 2. **Slaughtered-cow fallacy**: Complete preprocessing before putting in mouth, not throwing in whole. Apps become combinations of lightweight processing
@@ -228,8 +238,9 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 
 ---
 
-## 6. Revision History
+## Revision History
 
 | Date | Changes |
 |------|---------|
 | 2026-02-27 | English translation created from canonical Japanese (00_HST_Basic_Concepts.md) |
+| 2026-02-27 | Conclusion, theme, proposition placed at top; restructured as grounds and metaphors (thesis-first) |

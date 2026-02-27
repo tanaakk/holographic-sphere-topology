@@ -1,6 +1,8 @@
 # Holographic Sphere Topology (HST)
 
-Holographic Sphere Topology の基本概念と原則。臓器メタファーと境界面（ホログラフィー）の定義により、システム開発を **Object と Morphism の数学的問題** に置き換える。
+**Holographic Sphere Topology (HST)** は、TANAAKK が AI 時代において提唱している新たな指針・造語である。臓器メタファーと境界面（ホログラフィー）の定義により、システム開発を **Object と Morphism の数学的問題** に置き換える。
+
+*HST is a new guideline and neologism proposed by TANAAKK for the AI era.*
 
 ## ドキュメント
 
