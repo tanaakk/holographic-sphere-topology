@@ -143,6 +143,8 @@ Under the above definitions, **system development is largely replaced by a mathe
 
 **What matters for the engineer's role is understanding the landscape, organizing hierarchical relationships through ontology, and making topology explainable.** Explainability is synonymous with reproducibility and extensibility. Designing boundaries, Objects, and Morphisms is nothing other than constructing this explainable topology.
 
+**SCA (Software Composition Analysis / tech stack composition analysis) serves as an example of HST-style classification.** Previously, MECE was often used to survey the internal structure of a single system. **To define the landscape, topology must be defined.** MECE is exhaustive decomposition of the interior; topology is the relationship of points (Objects) and morphisms (Morphisms) on the boundary. To align SCA with HST, the three principles **Layered, Orthogonal, and MECE** are applied, and each technical element is coordinated along three axes: Layer (depth), Aspect (cross-section/concern), and Phase (time/state). See `02_HST_SCA_Definition.md` for details.
+
 **Engineering has shifted from stacking bricks to creating substantial black boxes that integrate with the surrounding environment and return correct In/Out.** The essence lies not in internal implementation (how bricks are stacked) but in behavior at the boundary (integration with environment, correct In/Out).
 
 The selection of **appropriate 3rd-party black boxes** as the internal structure of the system, so that enterprise Output is legitimate, is itself evidence that **engineers have been elevated to authority over the landscape**. Choices such as Shopify, serverless, Drizzle, and SolidJS are the design of the landscape itself.
@@ -158,6 +160,14 @@ HST theory clarifies **the scope of impact—what effects will occur on existing
 | **Existing infrastructure** | Monolithic giant-type systems, ERPs lacking boundaries, in-house DBs and servers become legacy. Migration toward organ separation, boundary design, and external black-box selection is required |
 | **Personnel** | Reclassification by presence or absence of root authority. Value diverges between those capable of boundary design and Object/Morphism design, and those specialized in traditional internal implementation |
 | **Careers** | Code-writing work becomes fossilized. Understanding the landscape, organizing ontology, and topology explainability become the central axis of careers. Advancement to positions with 3rd-party black-box selection authority becomes a new career path |
+
+### 3.2.2 Non-Separated Boundaries and AI Limits; Autonomous Growth of Local and Wide-Area Systems
+
+**Without a tech stack separated by boundaries as per HST, no matter how much one attempts to leverage AI, LLM output will not even be produced—due to dependency environments such as CSS and Docker.**
+
+To improve performance, a shift is required from **centralized version control** to a **structure of local and wide-area systems where edge terminals grow autonomously**.
+
+**Single cells aggregate to form organs; organs aggregate to form a body.** Cell growth does not bottleneck organ growth; organ growth does not bottleneck body growth. Each layer **grows autonomously**. This structure is what a boundary-separated tech stack aims for. When dependency chains are not centralized but each Object connects only via In/Out at the boundary, the LLM can generate output based on types, contracts, and protocols at the boundary.
 
 ### 3.3 The Next Era: Black-Box Spherification of Business
 
@@ -250,8 +260,10 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 14. **Engineer's role**: Understand landscape; organize hierarchical relationships via ontology; make topology explainable. Selection of appropriate 3rd-party black boxes elevates engineers to authority over the landscape
 15. **Specialist reclassification**: Specialists in finance, sales, marketing, design, development, quality management, and audit are classified by presence or absence of root authority to observe higher-level In/Out through the HST landscape
 16. **Scope of impact**: Impact on existing infrastructure (legacy, migration), personnel (reclassification by root authority), and careers (landscape understanding and black-box selection authority as central axis) is clarified
-17. **Engineering shift**: Not stacking bricks but creating substantial black boxes that integrate with environment and return correct In/Out
-18. **Role of code**: In new development, boundary description is primary. "Writing code" is a fossil except for legacy maintenance
+17. **SCA and topology**: SCA as example of HST-style classification. MECE surveys system interior; topology required for landscape definition. Three principles Layered/Orthogonal/MECE; technical elements coordinated by Layer/Aspect/Phase axes
+18. **Non-separated boundaries and AI limits**: Without a boundary-separated tech stack, LLM output is blocked by dependencies (CSS, Docker, etc.). Performance improvement requires shifting from centralized version control to local/wide-area systems where edge terminals grow autonomously. Cell→organ→body hierarchy: each layer grows autonomously without bottlenecking the upper layer
+19. **Engineering shift**: Not stacking bricks but creating substantial black boxes that integrate with environment and return correct In/Out
+20. **Role of code**: In new development, boundary description is primary. "Writing code" is a fossil except for legacy maintenance
 
 ---
 
@@ -263,3 +275,5 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 | 2026-02-27 | Conclusion, theme, proposition placed at top; restructured as grounds and metaphors (thesis-first) |
 | 2026-02-27 | 3.2.1 Scope of impact (existing infrastructure, personnel, careers) added |
 | 2026-02-27 | Definition of this repository (outputs answers to queries about organizing external/internal boundaries of business as complex system) added |
+| 2026-02-27 | 3.2.2 Non-separated boundaries and AI limits; autonomous growth of local/wide-area systems (CSS/Docker dependencies, cell→organ→body metaphor) added |
+| 2026-02-27 | SCA as HST-style classification example. MECE vs topology. 02_HST_SCA_Definition.md created |

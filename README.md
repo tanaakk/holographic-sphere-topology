@@ -15,6 +15,7 @@
 | [00_HST_Basic_Concepts.md](00_HST_Basic_Concepts.md) | **正本（日本語）** — HST 基本概念 |
 | [00_HST_Basic_Concepts_EN.md](00_HST_Basic_Concepts_EN.md) | **English** — Translation of the canonical Japanese version |
 | [01_HST_IO_Specification.md](01_HST_IO_Specification.md) | I/O Specification の定義と本リポジトリの想定 I/O |
+| [02_HST_SCA_Definition.md](02_HST_SCA_Definition.md) | HST に基づく SCA 構成の完全定義（Layered/Orthogonal/MECE、TypeScript Schema、Topology View） |
 
 ## 8 リポジトリ構造
 
