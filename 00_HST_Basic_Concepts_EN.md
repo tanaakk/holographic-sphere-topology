@@ -80,7 +80,7 @@ As software grows in mass and complexity, the `https://` boundary functions as a
 
 **All things and life are established at a boundary that is highly compressed and easy to decode.** 3D internal structure is compressed and encoded onto the boundary (2D); it can be decoded via queries from the boundary. The essence of things, life, and systems is condensed on the boundary surface.
 
-**HST becomes more effective as complexity increases.** For example, Mars's atmospheric composition can be inferred with nearly 100% accuracy through observation of the boundary from outside. This is analogous to the law by which a sushi chef who has prepared various types of fish can predict the quality of the contents to some extent just by looking at the fish's scales. Likewise, a chef who has cooked many aged meats can discern the grade of today's aged meat before cooking. (However, the price the customer pays does not change because of that.)
+**HST becomes more effective as complexity increases.** For example, Mars's atmospheric composition can be inferred with nearly 100% accuracy through observation of the boundary from outside. A skilled fish professional can deduce taste without eating—through a few query interactions on the surface: the vendor's voice tone, the fish's appearance, the texture when touched, the resistance when cutting with a knife. Internal structure is inferred from boundary observation without opening the interior. Likewise, a chef who has cooked many aged meats can discern the grade of today's aged meat before cooking. (However, the price the customer pays does not change because of that.)
 
 To know what the Earth is like, no one digs into the ground and observes cores first—**looking at the surface is sufficient**. Observing the boundary (surface) allows understanding without digging into the interior. The same principle applies.
 
@@ -214,7 +214,7 @@ Whether capital invested in internal systems is output as operating cash flow, a
 | Folder | Content |
 |--------|---------|
 | [enterprise-portfolio/](enterprise-portfolio/) | Business portfolio management, investment due diligence. Site/field conversations trap one in dissipative structure. Surface interfaces (CEO, managers) suffice. Define expected IRR upfront; query samples for capital In/Out vs hurdle rate; infer post-acquisition performance with high accuracy by observing event horizon only |
-| [personnel/](personnel/) | Employee interviews, personnel prediction. A few queries suffice ZKP-style to determine beneficial internal processes. 6-month trial clarifies ROIC hurdle. Age, career, gender, religion, family composition, education, medical history, previous job—judge without asking; all information inscribed on boundary surface. If expected In/Out achieved, mandatory retirement unnecessary |
+| [personnel/](personnel/) | Employee interviews, personnel prediction. ZKP-style: a few query interactions on the surface deduce internal structure—isomorphic to fish professional deducing taste from voice, appearance, touch, knife resistance. 6-month trial clarifies ROIC hurdle. Age, career, gender, religion, family composition, education, medical history, previous job—judge without asking; all information inscribed on boundary surface. If expected In/Out achieved, mandatory retirement unnecessary |
 
 ### 3.4 Acceptance of Black Boxes and Predictability Through Inference
 
@@ -230,14 +230,14 @@ The internal system is unobservable (abstracted). Result predictability is ensur
 
 ### 3.5 Zero Knowledge Proof–Type Certification
 
-Whether the black-boxed sphere interior aligns with its purpose can be **entirely defined by In and Out at the boundary**. This is **Zero Knowledge Proof–type certification**.
+**ZKP-style: a few query interactions on the surface suffice to deduce internal structure.** Whether the black-boxed sphere interior aligns with its purpose can be **entirely defined by In and Out at the boundary**. This is **Zero Knowledge Proof–type certification**.
 
 | Traditional Certification | HST Certification |
 |-------------------------|-------------------|
-| Inspect interior to confirm compliance | Certify compliance only via types and contracts of boundary Input/Output |
+| Inspect interior to confirm compliance | Throw a few queries at the surface; deduce interior from boundary Input/Output types and contracts |
 | Implementation disclosure and audit required | Prove without opening interior, via In/Out consistency only |
 
-Without knowing internal implementation, **In and Out at the boundary satisfying the specification** certifies that the sphere aligns with its purpose. Verifiable from outside while preserving internal secrets.
+Without knowing internal implementation, **In and Out at the boundary satisfying the specification** certifies that the sphere aligns with its purpose. As a skilled fish professional deduces taste from the vendor's voice, appearance, touch, and knife resistance, a few surface queries suffice to infer the interior. Verifiable from outside while preserving internal secrets.
 
 **When expected Out does not result from In, the Input data is wrong in most cases.** Every system outputs according to some rule. When unexpected Out is obtained, first suspect In at the boundary (type, format, value of input data). Verify correctness of In before suspecting bugs in the internal system.
 
@@ -262,7 +262,7 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 1. **Organ metaphor**: Business is composed of 10+ organs; organs are separated by boundaries
 2. **Slaughtered-cow fallacy**: Complete preprocessing before putting in mouth, not throwing in whole. Apps become combinations of lightweight processing
 3. **DB commoditization**: The long-sanctified database becomes serverless; almost free, no longer profitable
-4. **Holographic principle**: Only information on the boundary is exchanged. Interior unobservable. All things and life are established at a highly compressed, easily decodable boundary. HST more effective as complexity increases (e.g., Mars atmospheric composition; sushi chef and fish scales; chef and aged meat grade—customer price unchanged)
+4. **Holographic principle**: Only information on the boundary is exchanged. Interior unobservable. All things and life are established at a highly compressed, easily decodable boundary. HST more effective as complexity increases (e.g., Mars atmospheric composition; fish professional deducing taste from vendor's voice, appearance, touch, knife resistance; chef and aged meat grade—customer price unchanged)
 5. **Definition of human**: Computing device with externalized storage. Memory used only for external interaction; bones, muscles, brain replaced in weeks to months. Past interaction history can be referenced almost entirely via surface information of query responses
 6. **HST-compliant training and learning**: 10 minutes sufficient. Fragmentary observation of machine-body interaction verifies whole-body performance. Learning likewise: verify proficiency via simple query round-trips. Long lectures and prolonged investigation of system interior end in futility
 7. **Evolution and external black boxes**:
@@ -271,9 +271,9 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 10. **Mathematization**: Development is reduced to a design problem of Objects and Morphisms
 11. **Business black-box sphere**: Design boundaries, Objects, Morphisms; optimize processing order; wrap business into a simple sphere of capital Input → net profit Output
 12. **Enterprise black box**: Enterprise is a broader box of combined systems. Legitimacy of internal complexity verifiable via ROIC, operating CF, Competitive In/Out
-13. **Business portfolio management, investment DD, and interviews**: Site/field conversations trap one in dissipative structure. Surface interfaces (CEO, managers) suffice. Investment DD: define expected IRR upfront; query samples for capital In/Out vs hurdle rate; infer post-acquisition performance with high accuracy by observing event horizon only. Interviews: a few queries suffice ZKP-style to determine beneficial internal processes; 6-month trial clarifies ROIC hurdle. Age, career, gender, religion, family composition, education, medical history, previous job—judge without asking; all information inscribed on boundary surface. If expected In/Out achieved, mandatory retirement unnecessary
+13. **Business portfolio management, investment DD, and interviews**: Site/field conversations trap one in dissipative structure. Surface interfaces (CEO, managers) suffice. Investment DD: define expected IRR upfront; query samples for capital In/Out vs hurdle rate; infer post-acquisition performance with high accuracy by observing event horizon only. Interviews: ZKP-style, a few query interactions on the surface deduce internal structure—isomorphic to fish professional deducing taste from voice, appearance, touch, knife resistance; 6-month trial clarifies ROIC hurdle. Age, career, gender, religion, family composition, education, medical history, previous job—judge without asking; all information inscribed on boundary surface. If expected In/Out achieved, mandatory retirement unnecessary
 14. **Acceptance of black boxes**: Do not study internal system; accept black boxes; achieve predictability through inference
-15. **Zero Knowledge Proof–type certification**: Whether sphere interior aligns with purpose is defined by boundary In and Out. Certifiable without opening interior
+15. **Zero Knowledge Proof–type certification**: A few query interactions on the surface deduce internal structure. Whether sphere interior aligns with purpose is defined by boundary In and Out. Certifiable without opening interior
 16. **In-first verification**: When expected Out does not appear, Input data is wrong in most cases. Every system outputs by some rule
 17. **Engineer's role**: Understand landscape; organize hierarchical relationships via ontology; make topology explainable. Selection of appropriate 3rd-party black boxes elevates engineers to authority over the landscape
 18. **Specialist reclassification**: Specialists in finance, sales, marketing, design, development, quality management, and audit are classified by presence or absence of root authority to observe higher-level In/Out through the HST landscape
@@ -282,6 +282,7 @@ Without knowing internal implementation, **In and Out at the boundary satisfying
 21. **Non-separated boundaries and AI limits**: Without a boundary-separated tech stack, LLM output is blocked by dependencies (CSS, Docker, etc.). Performance improvement requires shifting from centralized version control to local/wide-area systems where edge terminals grow autonomously. Cell→organ→body hierarchy: each layer grows autonomously without bottlenecking the upper layer
 22. **Engineering shift**: Not stacking bricks but creating substantial black boxes that integrate with environment and return correct In/Out
 23. **Role of code**: In new development, boundary description is primary. "Writing code" is a fossil except for legacy maintenance
+24. **Human capability and coherence**: Humans can build more complex computers than they imagine (Ballon d'Or, dual-threat Hall of Famers, Michelin three-star expansion). What matters is aligning coherence—correct ZKP-style queries for what you want, black-box packaging, landscape topology—according to the principle of least action
 
 ---
 
